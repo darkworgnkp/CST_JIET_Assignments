@@ -1,3 +1,8 @@
+ //The logic behind it is GCD of consecutive numbers is always 1 but if numbers are equal return number
+ //   if(A==B)
+  //      return A;
+ //   else
+ //       return "1";
 //GCD OF A AND B
 #include<iostream>
 using namespace std;
